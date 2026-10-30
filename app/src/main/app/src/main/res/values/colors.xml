@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cafe_dark">#2C1810</color>
+    <color name="cafe_caramel">#C68B59</color>
+    <color name="cafe_cream">#F5EBE0</color>
+    <color name="cafe_accent">#4E6E58</color>
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#D90429</color>
+</resources>
