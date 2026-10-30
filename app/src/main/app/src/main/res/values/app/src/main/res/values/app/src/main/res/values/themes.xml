@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CoffeeTrack" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cafe_caramel</item>
+        <item name="colorPrimaryDark">@color/cafe_dark</item>
+        <item name="colorAccent">@color/cafe_accent</item>
+    </style>
+</resources>
