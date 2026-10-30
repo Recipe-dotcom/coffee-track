@@ -15,6 +15,13 @@ android {
         versionName = "1.0"
     }
 
+    sourceSets {
+        getByName("main") {
+            java.srcDirs("src/main/app/src/main/java", "src/main/java")
+            res.srcDirs("src/main/app/src/main/res", "src/main/res")
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = false
